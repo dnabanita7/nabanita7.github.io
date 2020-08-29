@@ -1,58 +1,51 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Nabanita Dash",
+    "label": "Machine learning researcher",
+    "picture": "https://techfolios.github.io/template/images/",
+    "email": "dashnabanita@gmail.com",
+    "phone": "+91-8249665459",
+    "website": "https://dnabanita7.github.io",
+    "summary": "I am a senior year B.Tech. student at the Department of Computer Science and Engineering, International Institute of Information and Technology Bhubaneswar (IIIT Bhubaneswar), Bhubaneswar, India. I like working on open-source projects mostly those are hosted on GitHub. I have worked for iterative/DVC, SymPy, Haiku, JuliaLanguage, FluxModels, ReinforcementLearning.jl. Apart from working on open source, I like dabbling in game development, cooking, petting stray animals. ",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "address": "C/169, Sector-1",
+      "postalCode": "769008",
+      "city": "Rourkela",
+      "countryCode": "IN",
+      "region": "Odisha"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "dnabanita7",
+        "url": "https://github.com/dnabanita7"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "nabanita07",
+        "url": "https://linkedin.com/in/nabanita07"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "explorer_07",
+        "url": "https://twitter.com/explorer_07"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "heur_eux",
+        "url": "https://instagram.com/heur_eux"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
       "name": "artificial intelligence",
       "keywords": [
+        "Machine Learning",
+        "Deep Learning",
+        "Reinforcement Learning",
+        "Computer Vision",
+        "Game Development"
       ]
     }
   ],
@@ -63,102 +56,227 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "Julia",
+        "Ruby",
+        "Tensorflow",
+        "PyTorch",
+        "Bash"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Linux",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "VS-Code",
+        "Atom",
+        "Docker",
+        "SQL",
+        "BigQuery",
+        "Shell-Scripting",
+        "Linear Algebra",
+        "Statistics"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "International Institute of Information Technology, Bhubaneswar",
+      "area": "Computer Science and Engineering(expected Spring, 2021)",
+      "studyType": "B.Tech",
+      "startDate": "2017-08-01",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
+      "gpa": "7.6"
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "GitHub",
+      "position": "Campus Expert",
+      "website": "https://github.com/campus-experts/welcome",
+      "startDate": "2020-04-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "I organize the events at IIIT-BH which are funded and sponsored by GitHub.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "We conduct competitive programming contests on Codechef monthly",
+        "We conduct a #45DaysofProductivity for IIIT-BH"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Major League Hacking Fellow'20",
+      "position": "Open Source intern",
+      "website": "https://mlh.io/",
+      "startDate": "2020-05-01",
+      "endDate": "2020-08-24",
+      "summary": "I interned as a Major League Hacking fellow'20 working on vision, reinforcement learning in Julia.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Developed a package for auto-adjustment of brightness using Julia Language and SciML within 3 days of hackathon",
+        "Developing vision(ResNet, GoogLeNet, vgg, InceptionNet v3,v4), RL(Dueling DQN, Quantile DQN, Actor-Critic) models in Julia in FluxModels.jl",
+        "Adding plot feature in AutoMLPipeline.jl package",
+        "Developed the base for gaming platform for MLH hackathon and won the community best award for it"
       ]
-    }
+    },
+    {
+      "company": "ACM-India, Bhubaneswar Chapter",
+      "position": "Chairperson",
+      "website": "https://india.acm.org/",
+      "startDate": "2019-09-01",
+      "endDate": "2020-06-30",
+      "summary": "I organized the events at IIIT-BH which are sponsored by ACM-India.",
+      "highlights": [
+        "We conducted a Hacktoberfest meetup where attendees were given a hands on experience about open source software and 3 students successfully merged their pull request to iterative/DVC who reimbursed us with 150 dollars",
+        "We conduct sessions and workshops helping attendees know and learn about technology and software development"
+        "We are collaboratively organizing events such as competitive programming, Hacktoberfest 2019, Linux fest, web development, android development, machine-learning"
+        "ACM-India, Bhubaneswar Chapter organized a hackathon at Devpost"
+      ]
+    },
+    {
+      "company":  "Programming Society",
+      "position": "Head",
+      "website": "https://github.com/p-society",
+      "startDate": "2019-08-01",
+      "endDate": "2020-06-30",
+      "summary": "I organize the events at IIIT-BH which are funded and sponsored by GitHub.",
+      "highlights": [
+        "We conducted a Hacktoberfest meetup where attendees were given a hands on experience about open source software and 3 students successfully merged their pull request to iterative/DVC who reimbursed us with 150 dollars",
+        "We conduct sessions and workshops helping attendees know and learn about technology and software development"
+        "We are collaboratively organizing events such as competitive programming, Hacktoberfest 2019, Linux fest, web development, android development, machine-learning"
+        "ACM-India, Bhubaneswar Chapter organized a hackathon at Devpost"
+      ]
+    },
+    {
+      "company": "PredictivEye Inc.",
+      "position": "Data Science Intern",
+      "website": "https://www.predictiveye.com/",
+      "startDate": "2020-03-03",
+      "endDate": "2020-05-31",
+      "summary": "I developed recommendation engines for clients",
+      "highlights": [
+        "Research and Development for metrics to be used for recommendation engines and ad campaigns for our clients"
+        "Working with Google analytics and Ad words data on campaigns to predict the customer’s visit to the client's website"
+        "Working on Budget optimization,forecasting of CTR, Impressions"
+      ]
+    },
+    {
+      "company": "Google Code-in",
+      "position": "Student Mentor",
+      "website": "https://codein.withgoogle.com/archive/",
+      "startDate": "2019-12-12",
+      "endDate": "2020-01-31",
+      "summary": "I helped students of age 13-18 to get started with JuliaLanguage",
+      "highlights": [
+        "I am mentoring students and helping them with JuliaLanguage projects and specified tasks"
+      ]
+    },
+    {
+      "company": "Varidus Scaling Innovation",
+      "position": "Analyst, Data Science",
+      "website": "http://www.varidus.com/",
+      "startDate": "2019-10-03",
+      "endDate": "2020-01-31",
+      "summary": "I developed a model predicting startup growth.",
+      "highlights": [
+        "Created dataset concerning startups growth, IPO, Mergers and Acquisitions data by web scraping"
+        "I had to perform sentiment analysis on rumor data scraped from different financial websites"
+        "Developing a model that predicts startups growth and implementing it on AWS Sagemaker, EC2 instances and Google colaboratory"
+      ]
+    },
+    {
+      "company": "ROURKELA STEEL PRIVATE LIMITED",
+      "position": "Internship Trainee",
+      "website": "https://sail.co.in/rourkela-steel-plant/about-rourkela-steel-plant",
+      "startDate": "2019-05-13",
+      "endDate": "2019-06-12",
+      "summary": "I developed a LSTM model to evaluate stock-price.",
+      "highlights": [
+        "Developed a model using single-directional LSTMs to predict the stock-price in ̝1 month̝ and achieved ̝72.6% accuracy"
+        "Collaboratively worked in a team to train, evaluate model"
+      ]
+    },
+    {
+      "company": "NALCO MANUFACTURING LTD",
+      "position": "Training And Development Intern",
+      "website": "https://nalcoindia.com/",
+      "startDate": "2018-05-03",
+      "endDate": "2018-06-02",
+      "summary": "I learnt VB and made changes in their website.",
+      "highlights": [
+        "Learnt VB,.NET and improved NALCO's website by adding more linked pages and Updates section in ̝2 weeks̝" 
+        "Collaboratively worked in a team on developing website for easy and accessible handling of information for all"
+      ]
+    },
+    
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "GirlScript",
+      "website": "https://www.girlscript.tech/home",
+      "position": "Moderator",
+      "startDate": "2020-05-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Working for increasing diversity in Tech",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Prepare weekly quiz questions",
+        "Wrote an article on 'How I got benefited from open source development' which got published in @Anita B.org",
+        "Conducted and lead a workshop on 'Introduction to Julia'".
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "International Conference on Machine Learning",
+      "website": "https://icml.cc/virtual/2020",
+      "position": "Volunteer",
+      "startDate": "2020-07-12",
+      "endDate": "2020-07-18",
+      "summary": "Helped out at the desk",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "I helped at the #helpdesk and took notes from the sessions assigned to me",
+        "I asked questions on behalf of the other attendees"
+      ]
+    },
+    {
+      "organization": "Campustry",
+      "website": "https://campustry.org/",
+      "position": "Chapter Lead",
+      "startDate": "2019-10-01",
+      "endDate": "2020-05-05",
+      "summary": "Organized events at campus",
+      "highlights": [
+        "I have been organizing all the events for Campustry letting freshmen and sophomore year students know about how to write better resumes and all the opportunities provided by Campustry"
+      ]
+    },
+    {
+      "organization": "ACM, Association for Computing Machinery",
+      "website": "https://india.acm.org/",
+      "position": "Member",
+      "startDate": "2017-09-01",
+      "endDate": "2020-06-30",
+      "summary": "Conducted events at campus",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "PyJaipur",
+      "website": "https://www.pyjaipur.org/",
+      "position": "Volunteer",
+      "startDate": "2019-05-12",
+      "endDate": "2019-07-18",
+      "summary": "Helped out at explaining tutorials and clarifying questions of fellow students",
+      "highlights": [
+        "Clarifying fellow mates in clearing up their doubts in Python and Machine Learning with completing tasks of PyJaipur on Machine Learning and Deep Learning"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+    
   ],
   "references": [
     {
