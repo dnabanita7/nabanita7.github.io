@@ -128,8 +128,8 @@
       "summary": "I organized the events at IIIT-BH which are sponsored by ACM-India.",
       "highlights": [
         "We conducted a Hacktoberfest meetup where attendees were given a hands on experience about open source software and 3 students successfully merged their pull request to iterative/DVC who reimbursed us with 150 dollars",
-        "We conduct sessions and workshops helping attendees know and learn about technology and software development"
-        "We are collaboratively organizing events such as competitive programming, Hacktoberfest 2019, Linux fest, web development, android development, machine-learning"
+        "We conduct sessions and workshops helping attendees know and learn about technology and software development",
+        "We are collaboratively organizing events such as competitive programming, Hacktoberfest 2019, Linux fest, web development, android development, machine-learning",
         "ACM-India, Bhubaneswar Chapter organized a hackathon at Devpost"
       ]
     },
@@ -142,8 +142,8 @@
       "summary": "I organize the events at IIIT-BH which are funded and sponsored by GitHub.",
       "highlights": [
         "We conducted a Hacktoberfest meetup where attendees were given a hands on experience about open source software and 3 students successfully merged their pull request to iterative/DVC who reimbursed us with 150 dollars",
-        "We conduct sessions and workshops helping attendees know and learn about technology and software development"
-        "We are collaboratively organizing events such as competitive programming, Hacktoberfest 2019, Linux fest, web development, android development, machine-learning"
+        "We conduct sessions and workshops helping attendees know and learn about technology and software development",
+        "We are collaboratively organizing events such as competitive programming, Hacktoberfest 2019, Linux fest, web development, android development, machine-learning",
         "ACM-India, Bhubaneswar Chapter organized a hackathon at Devpost"
       ]
     },
@@ -155,8 +155,8 @@
       "endDate": "2020-05-31",
       "summary": "I developed recommendation engines for clients",
       "highlights": [
-        "Research and Development for metrics to be used for recommendation engines and ad campaigns for our clients"
-        "Working with Google analytics and Ad words data on campaigns to predict the customer’s visit to the client's website"
+        "Research and Development for metrics to be used for recommendation engines and ad campaigns for our clients",
+        "Working with Google analytics and Ad words data on campaigns to predict the customer’s visit to the client's website",
         "Working on Budget optimization,forecasting of CTR, Impressions"
       ]
     },
@@ -179,8 +179,8 @@
       "endDate": "2020-01-31",
       "summary": "I developed a model predicting startup growth.",
       "highlights": [
-        "Created dataset concerning startups growth, IPO, Mergers and Acquisitions data by web scraping"
-        "I had to perform sentiment analysis on rumor data scraped from different financial websites"
+        "Created dataset concerning startups growth, IPO, Mergers and Acquisitions data by web scraping",
+        "I had to perform sentiment analysis on rumor data scraped from different financial websites",
         "Developing a model that predicts startups growth and implementing it on AWS Sagemaker, EC2 instances and Google colaboratory"
       ]
     },
@@ -192,7 +192,7 @@
       "endDate": "2019-06-12",
       "summary": "I developed a LSTM model to evaluate stock-price.",
       "highlights": [
-        "Developed a model using single-directional LSTMs to predict the stock-price in ̝1 month̝ and achieved ̝72.6% accuracy"
+        "Developed a model using single-directional LSTMs to predict the stock-price in ̝1 month̝ and achieved ̝72.6% accuracy",
         "Collaboratively worked in a team to train, evaluate model"
       ]
     },
@@ -204,7 +204,7 @@
       "endDate": "2018-06-02",
       "summary": "I learnt VB and made changes in their website.",
       "highlights": [
-        "Learnt VB,.NET and improved NALCO's website by adding more linked pages and Updates section in ̝2 weeks̝" 
+        "Learnt VB,.NET and improved NALCO's website by adding more linked pages and Updates section in ̝2 weeks̝",
         "Collaboratively worked in a team on developing website for easy and accessible handling of information for all"
       ]
     },
