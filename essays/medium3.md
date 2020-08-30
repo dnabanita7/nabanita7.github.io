@@ -14,24 +14,28 @@ labels:
   - AnitaB.org
 ---
 
-<img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg"> **This article got published in AnitaB.org in Medium.**
+<img class="ui tiny left circular floated image" src="../images/oss.jpeg"> **This article got published in AnitaB.org in Medium.**
 **Grades seem important until you realise you can build something with what you’ve learned.** 
 
 I was always inquisitive about learning new technology and building it. All I knew back then was get hired by some industry, contribute to their work after graduation. I came to know about open-source in my first year of Bachelors's. Since then I have never stopped learning or contributing to OSS (Open Source Software).
-So, what is open source?
+
+## So, what is open source?
 
 Open source software is software with source code that anyone can inspect, modify, and enhance because its design is publicly accessible.
-Why open source?
+
+## Why open source?
 
 First of all, as it accessible by everyone and maintained by everyone, anyone can contribute small or big. Anyone can view, copy, learn, alter or share the source code legally. This fetches in a vast range of ideas and contributions from diverse backgrounds.
 
 Second point is open-source doesn’t discriminate on the basis of grades or gender or race. It has no selection criteria to judge you and then allow you to alter or play with the source code. Anybody who wants to learn or contribute to the open source projects are welcome.
 
 Third is you can connect with and get to know and share knowledge from developers all over the world. You can know about their experiences and learning easily while sitting in the comfort of your home.
-My journey into open source
+
+## My journey into open source
 
 I have been contributing to various open source organizations since my 3rd semester. My first contribution was to JupyterHub. It was intimidating at first. I couldn’t understand what was the issue at first. I spent days on it looking into documentation, other google links that popped up. I understood what was the issue after 5 days. Then I started searching for possible solutions on google. I never tested it on my local machine as I didn’t know how to do that yet. I started drafting a PR for the same. It got a few comments on it. It took me another 3 days to understand the comments. Then, I started working on those comments. The PR was never merged because it had some dependencies with other issues. Then I contributed to Coala and was made a member of newbies Coala. After that, I continued contributing to Gensim, yellowbrick, Haiku, SymPy, iterative/dvc, JuliaLang, Flux.jl, FluxModels.jl, JuliaReinforcementLearning.jl
-My Contributions to open source software/projects
+
+### My Contributions to open source software/projects
 
     ResNet model in Flux
     GoogLeNet model in Flux
@@ -41,7 +45,7 @@ My Contributions to open source software/projects
     The previous code only showed the file names, it didn’t autocomplete the commands
     Changed mpf(0) to None in S.Zero
 
-The benefits of contributing to open source
+## The benefits of contributing to open source
 
 Contributing to open source opens a path to contribute to new, emerging and developing technologies. Any small contribution starting from starring the project, playing around to check if everything works fine, fixing documentation, fixing a small bug, writing, testing, debugging, deploying software, or sponsoring the project is valuable and does matter.
 
