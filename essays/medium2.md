@@ -20,7 +20,7 @@ During the first week, Gautam Mishra, Biswajit Ghosh and I made Gazel.jl which i
 
 I contacted Kyle Daruwalla for working on SpikkingNN.jl and told him about my interests in machine learning and deep learning. He said and I quote
 ```
-    “Do you prefer working more on the infrastructure or applications side? I have two immediate options that come to mind. We need a MLDatasets.jl and FluxModels.jl to provide a standard way for users to access common ML setups in Flux. Alternatively, we are also looking to establish a benchmark repo that does training and inference for a suite of models and datasets. We would use this repo as a regression test whenever we make changes to Flux or the backend AD tool, Zygote.”
+**Do you prefer working more on the infrastructure or applications side? I have two immediate options that come to mind. We need a MLDatasets.jl and FluxModels.jl to provide a standard way for users to access common ML setups in Flux. Alternatively, we are also looking to establish a benchmark repo that does training and inference for a suite of models and datasets. We would use this repo as a regression test whenever we make changes to Flux or the backend AD tool, Zygote.**
 ```
 I was excited to work on the project. I started reading papers and working on writing vision, RL, language models and training that full range of models. There was always this engineering challenge of integrating everything together too.
 
