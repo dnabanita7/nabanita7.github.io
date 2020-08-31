@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions, Good Answers
+title: Contributions to Julia during MLH fellowship'20
 # All dates must be YYYY-MM-DD format!
 date: 2020-08-14
 labels:
