@@ -19,9 +19,9 @@ I got Julia Summer of Code in May’20. I was excited and started learning about
 During the first week, Gautam Mishra, Biswajit Ghosh and I made Gazel.jl which is an ambient auto brightness tool for laptops/desktops. I created a basic Julia package for gazel. I worked on mapping contrast value to calculate the optimum brightness. I have written the documentation for the project and helped fellow team mates as required.
 
 I contacted Kyle Daruwalla for working on SpikkingNN.jl and told him about my interests in machine learning and deep learning. He said and I quote
-```
+
 **Do you prefer working more on the infrastructure or applications side? I have two immediate options that come to mind. We need a MLDatasets.jl and FluxModels.jl to provide a standard way for users to access common ML setups in Flux. Alternatively, we are also looking to establish a benchmark repo that does training and inference for a suite of models and datasets. We would use this repo as a regression test whenever we make changes to Flux or the backend AD tool, Zygote.**
-```
+
 I was excited to work on the project. I started reading papers and working on writing vision, RL, language models and training that full range of models. There was always this engineering challenge of integrating everything together too.
 
 I started with AlexNet model, read the paper and it took me a 4 to 5 days to merge it. Well it was easy. Then I started working on ResNet models which took a month to get merged. I read the paper and implemented it. But it had to be more Julian, so we included ``SkipConnection`` layer. It was diffcult at first to understand how SkipConnection works and how to implement it. Kyle helped me and we completely changed the structure of ResNet model.
